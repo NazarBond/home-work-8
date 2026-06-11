@@ -1,0 +1,15 @@
+{
+  "name": "parcel-products-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.9"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "parcel-transformer-hbs": "^1.0.4"
+  }
+}
